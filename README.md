@@ -1,7 +1,7 @@
 # JULY22-C-SF-MuffinClicker
 Code basic C# scripts and create custom components in Unity for a Muffin Clicker game.
 
-Project objectives:
+## Project objectives:
 - Understand the layout of the Unity Editor and Visual Studio
 - Interpret the code structure of a Unity script and decipher using statements
 - Produce a GameObject component from a script
